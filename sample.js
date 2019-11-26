@@ -1,6 +1,6 @@
 const mongodb = require('mongodb');
 const MongoClient = mongodb.MongoClient;
-const url = "mongodb+srv://dbuser_2326:2326@cluster0-mhrw6.mongodb.net/Cluster0?retryWrites=true&w=majority";
+const url = "mongodb+srv://dbuser_2326:*********@cluster0-mhrw6.mongodb.net/Cluster0?retryWrites=true&w=majority";
 
 
 module.exports = {
